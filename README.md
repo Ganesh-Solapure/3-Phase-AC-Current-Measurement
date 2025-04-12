@@ -8,11 +8,11 @@ This project demonstrates real-time measurement and plotting of 3-phase AC curre
 
 | Component             | Description                                                                 |
 | --------------------- | --------------------------------------------------------------------------- |
-| ESP32 Dev Board       | 12-bit ADC, WiFi + Bluetooth MCU                                            |
+| ESP32 Dev Board       | 12-bit ADC,  MCU                                            |
 | WCS1700 Sensor (x3)   | Hall-effect current sensor, 70A max, ~33mV/A sensitivity                     |
 | AC Source (3-Phase)   | Live 3-phase load or signal generator for testing                            |
 | Breadboard/Wires      | For connections                                                              |
-| 3-Phase Load          | Represents the electrical load (e.g., motors, lights) connected to the AC source. |
+| 3-Phase Load          | Represents the electrical load in my case PMSM motor (EV)|
 
 🧠 About the WCS1700 Sensor
 --------------------------
